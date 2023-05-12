@@ -17,8 +17,9 @@ Several Swarm Algorithm considered in this study were:
 
 For the purpose of this study, we concluded that Particle Swarm Optimization would be the best fit to study and enhance the Classical Self-Assembly Algorithm for better performance and convergence.
 
-
-## Files
+## File Descriptions
+ | File | Purpose |
+   | ---  | --- |
 | `Ant Colony Optimization.ipynb`                                                          | Jupyter notebook of Ant Colony Optimization in Python            |
 | `Artificial Bee Colony Optimization.ipynb`                                               | Jupyter notebook of Artiticial Bee Colony Optimization in Python |
 | `Bat Algorithm.ipynb`                                                                    | Jupyter notebook of Bat Algorithm in Python                      |
